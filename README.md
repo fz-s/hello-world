@@ -1,4 +1,4 @@
-# hello-world
 first git repo
-
-Reference: https://guides.github.com/activities/hello-world/
+# This file contains information about this project
+### Reference: https://guides.github.com/activities/hello-world/
+### Data files included: IRIS.csv
